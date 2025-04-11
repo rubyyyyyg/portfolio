@@ -438,7 +438,7 @@ section {
 /* --------------------------- MAIN --------------------------- */
 main h1 {
   font-size: 1.5rem;
-  color: #6084b3;
+  color: #2a3a51;
   font-weight: 300;
 }
 main p {
@@ -453,7 +453,7 @@ main p {
 /* --------------------------- FOOTER --------------------------- */
 #footerWrapper {
   background-color: #324596;
-  color: #6084b3;
+  color: #2a3a51;
 }
 
 footer {
