@@ -360,7 +360,7 @@ header span {
 
 /* --------------------------- NAVIGATION STUFF GOES HERE --------------------------- */
 #navWrapper {
-  background-color: #174947;
+  background-color: #3db7b3;
   position: sticky;
   top: 0;
 }
@@ -375,13 +375,13 @@ nav ul li {
   flex: 1;
 }
 nav ul li.active {
-  background-color: #0b2221;
+  background-color: #30918e;
 }
 nav ul a {
   display: block;
   text-align: center;
   padding: 0.75rem;
-  color: white;
+  color: black;
   text-decoration: none;
   height: 100%;
   width: auto;
@@ -394,7 +394,7 @@ nav ul a span {
   display: none;
 }
 nav ul a:hover {
-  background-color: #23706d;
+  background-color: #5ec9c6;
 }
 
 section {
